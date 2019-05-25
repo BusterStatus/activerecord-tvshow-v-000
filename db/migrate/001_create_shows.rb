@@ -1,0 +1,1 @@
+Class Shows < ActiveRecord::Migration[4.2]
