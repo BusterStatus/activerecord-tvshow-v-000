@@ -6,4 +6,5 @@ Class Shows < ActiveRecord::Migration[4.2]
     t.string :day
     t.integer :rating
   end
+  
 end
